@@ -1,7 +1,7 @@
 # Branches  2021
 
-## Origin / Master or Origin / Main
-We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
+## Origin / Main
+Main branch where the source code of HEAD always reflects a production-ready state.
 
 ## Origin /  Develop  
 When the source code in the develop branch reaches a stable point and is ready to be tested before release. Some would call this the “integration branch”.
