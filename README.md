@@ -3,7 +3,7 @@
 ## Origin / Main
 Main branch where the source code of HEAD always reflects a production-ready state.
 
-## Origin /  Develop  
+## Origin /  Staging  or Origin /  Develop  
 When the source code in the develop branch reaches a stable point and is ready to be tested before release. Some would call this the “integration branch”.
 
 ## Origin / Release-*
