@@ -13,7 +13,7 @@ When the source code in the develop branch is ready to be released.
 High priority bugfix, cannot wait to fix.
 
 ## Origin / Volatile
-Currently working on Source Code.
+This branch indicates working on unknown changes, meaning, upgrading dependencies or taking on a new dependency for research.
 
 ## Origin / Feature-*
 Currently working on Source Code for specific feature.
